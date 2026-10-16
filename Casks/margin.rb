@@ -1,6 +1,6 @@
 cask "margin" do
-  version "0.1.18"
-  sha256 "22c9fe8fd70a89388fdabe27c1013f0372ac10002b911b5173c9f88b81d44177"
+  version "0.1.19"
+  sha256 "defa47d1d4dc376a3b47d9234531613b2fd9775493ae9203725fc6f2b1e5f1d9"
 
   url "https://github.com/priyanshujain/margin/releases/download/v#{version}/Margin_#{version}_universal.dmg",
       verified: "github.com/priyanshujain/margin/"
